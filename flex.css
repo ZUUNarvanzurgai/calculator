@@ -1,0 +1,15 @@
+.navbar {
+  background-color: rgb(238, 111, 0);
+  display: flex;
+  height: 100px;
+  gap: 48px;
+}
+.LOGO {
+  color: blanchedalmond;
+  background-color: aqua;
+  height: 20px;
+}
+.nuur {
+  text-decoration: none;
+  color: antiquewhite;
+}
